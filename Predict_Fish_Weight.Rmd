@@ -52,6 +52,7 @@ subsets(regsubsets.out,statistic="adjr2",legend="bottomright",main="Adjusted R^2
 
 ### Best Two regressor model
 
+The best two regressor model is the one showing Height and Weight variables as the two regressors. The next best regressor model would be the one featuring Length 3, Height, and Weight as the regressor variables. 
 
 ## Pike
 
