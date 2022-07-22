@@ -81,6 +81,8 @@ subsets(regsubsets.out,statistic="adjr2",legend="bottomright",main="Adjusted R^2
 
 ### Best Two regressor model
 
+The best regressor model is the one that features Length 1, Length 2, Length 3, Height, and Width variables as its two regressors. The following best is the model showing length 1, length 3, height, and weight as its regressor variables. 
+
 ## Roach
 
 ### Best Models
